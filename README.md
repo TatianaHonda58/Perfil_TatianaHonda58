@@ -24,7 +24,7 @@ Sou uma profissional proativa, com forte capacidade analítica e grande interess
 
 **Analista de QA** - Kel Tech (Março 2025 - Março 2026 | Remoto)  
 - Responsável pela estratégia de qualidade de produtos Web e Desktop
-- Implementação de suítes de testes automatizados com **Maestro Desktop**, reduzindo em **40%** o tempo de testes regressivos manuais
+- Implementação de suítes de testes automatizados com **Maestro Desktop**
 - Atuação ativa em ritos ágeis (Kanban), colaborando diretamente com Desenvolvedores e Designers
 
 **QA Lead (Voluntária)** - Lacrei Saúde (Janeiro 2023 - Maio 2023 | Remoto)  
