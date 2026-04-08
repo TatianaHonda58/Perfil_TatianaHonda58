@@ -150,9 +150,11 @@ Sou uma profissional proativa, com forte capacidade analítica e grande interess
 ## 📊 GitHub Stats
 ---
 
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=TatianaHonda58&show_icons=true&theme=dark)
+![GitHub stats](https://github-readme-stats-sigma-five.vercel.app/api?username=TatianaHonda58&show_icons=true&theme=visual_studio_code)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=TatianaHonda58&layout=compact&theme=dark)
+![Top Langs](https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=TatianaHonda58&layout=compact&theme=visual_studio_code)
+
+![Streak Stats](https://github-readme-streak-stats.herokuapp.com/?user=TatianaHonda58&theme=visual_studio_code)
 
 ---
 
