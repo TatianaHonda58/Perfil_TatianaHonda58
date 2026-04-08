@@ -1,5 +1,5 @@
 ## Olá, eu sou a Tatiana Mitiko Honda! ✨
-### Analista de QA Pleno | Automação de Testes & Qualidade de Software
+### Analista de QA Júnior | Automação de Testes & Qualidade de Software
 #### Sou apaixonada por aprender e compartilhar meus conhecimentos em Testes e Qualidade de Software.
 
 📍 Itabira, MG (Disponível para Remoto)    
