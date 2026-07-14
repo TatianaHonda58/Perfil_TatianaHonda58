@@ -150,12 +150,13 @@ Sou uma profissional proativa, com forte capacidade analítica e grande interess
 ## 📊 Estatísticas do GitHub
 
 <p align="center">
-  <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=TatianaHonda58&show_icons=true&theme=visual_studio_code" alt="GitHub stats" height="180" />
-  <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=TatianaHonda58&layout=compact&theme=visual_studio_code" alt="Top Langs" height="180" />
+  <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=TatianaHonda58&show_icons=true&theme=visual_studio_code" height="180em" alt="GitHub stats" />
+  
+  <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=TatianaHonda58&layout=compact&theme=visual_studio_code" height="180em" alt="Top Langs" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=TatianaHonda58&theme=visual_studio_code" alt="Streak Stats" width="60%" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=TatianaHonda58&theme=visual_studio_code" height="180em" alt="Streak Stats" />
 </p>
 
 ---
