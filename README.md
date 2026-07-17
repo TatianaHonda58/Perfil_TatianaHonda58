@@ -83,24 +83,25 @@ Atualmente, expando meu escopo de atuação como **Desenvolvedora Full-Stack**, 
 ## 📊 Estatísticas & Stack Consolidada
 
 <p align="center">
-  <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=TatianaHonda58&show_icons=true&theme=visual_studio_code" height="180em" alt="GitHub stats" />
-  <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=TatianaHonda58&layout=compact&theme=visual_studio_code&hide=python,csharp" height="180em" alt="Top Langs" />
+  <!-- Estatísticas Gerais Customizadas -->
+  <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=TatianaHonda58&show_icons=true&bg_color=1e1e1e&title_color=4fc1ff&text_color=d4d4d4&icon_color=cef1f5&border_color=2d2d2d" height="185em" alt="GitHub stats" />
+  
+  <!-- Cartão de Linguagens Customizado (Escondendo Python e C#) -->
+  <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=TatianaHonda58&layout=compact&hide=python,csharp&bg_color=1e1e1e&title_color=4fc1ff&text_color=d4d4d4&border_color=2d2d2d" height="185em" alt="Top Langs" />
 </p>
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=TatianaHonda58&theme=visual_studio_code" height="180em" alt="Streak Stats" />
-</p>
+<br>
 
 ### 🎯 Matriz de Competências Focus (QA + Full-Stack)
 
 | Categoria | Tecnologias Dominadas |
 | :--- | :--- |
-| **Backend & Core** | Java 21, Spring Boot, Spring Data JPA, Hibernate, Maven, APIs RESTful |
-| **Frontend Web** | Next.js, React, TypeScript, JavaScript, Tailwind CSS, HTML5/CSS3 |
-| **Quality Assurance (QA)** | Automação E2E (Cypress, Maestro, Appium), Testes Unitários e de Integração (JUnit), APIs (Postman, Swagger) |
-| **DevOps & Metodologias** | GitHub Actions (Pipelines de CI/CD), Git, Docker, Scrum, Kanban, Testes em Nuvem |
+| ![Backend](https://img.shields.io/badge/Backend_&_Core-0052CC?style=for-the-badge) | ☕ **Java 21** • 🌱 **Spring Boot** • 🗄️ **Spring Data JPA & Hibernate** <br> 🛠️ **Maven** • 🔌 **APIs RESTful** |
+| ![Frontend](https://img.shields.io/badge/Frontend_Web-4FC1FF?style=for-the-badge&logoColor=black) | 🌐 **Next.js & React** • 🟦 **TypeScript** • 🟨 **JavaScript** <br> 🎨 **Tailwind CSS** • 📄 **HTML5 & CSS3** |
+| ![QA](https://img.shields.io/badge/Quality_Assurance-16A34A?style=for-the-badge) | 🧪 **Automação E2E:** *Cypress, Maestro, Appium* <br> 🎯 **Testes Code:** *JUnit (Unitários e Integração)* <br> 🚀 **APIs:** *Postman, Swagger* |
+| ![DevOps](https://img.shields.io/badge/DevOps_&_Agile-🟪_Purple?style=for-the-badge) | 🔄 **GitHub Actions (CI/CD)** • 🐙 **Git & GitHub** <br> 🐋 **Docker** • 👥 **Scrum & Kanban** • ☁️ **Testes em Nuvem** |
 
 ---
+
 
 ### 🤝 Vamos nos conectar e construir soluções estáveis?
 
